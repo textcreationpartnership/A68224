@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A miracle, of miracles As fearefull as euer was seene or heard of in the memorie of man. Which lately happened at Dichet in Sommersetshire, and sent by diuers credible witnesses to be published in London. Also a prophesie reuealed by a poore countrey maide, who being dead the first of October last, 1613. 24. houres, reuiued againe, and lay fiue dayes weeping, and continued prophesying of strange euents to come, and so died the 5. day following. Witnessed by M. Nicholas Faber, parson of the towne, and diuers worthy gentlemen of the same countrey. 1613, withall, Lincolnshire teares. For a great deluge, in which fiue villages were lamentably drovvned this present month.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68224</idno>
+            <idno type="STC">STC 14068</idno>
+            <idno type="STC">ESTC S119864</idno>
+            <idno type="EEBO-CITATION">99855070</idno>
+            <idno type="PROQUEST">99855070</idno>
+            <idno type="VID">20541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20541)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 774:10, 802:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A miracle, of miracles As fearefull as euer was seene or heard of in the memorie of man. Which lately happened at Dichet in Sommersetshire, and sent by diuers credible witnesses to be published in London. Also a prophesie reuealed by a poore countrey maide, who being dead the first of October last, 1613. 24. houres, reuiued againe, and lay fiue dayes weeping, and continued prophesying of strange euents to come, and so died the 5. day following. Witnessed by M. Nicholas Faber, parson of the towne, and diuers worthy gentlemen of the same countrey. 1613, withall, Lincolnshire teares. For a great deluge, in which fiue villages were lamentably drovvned this present month.</title>
+                  <author>T. I., fl. 1614.</author>
+                  <author>Schlichtenberger, Eyriak. Prophecey eines Bawren Tochter, welch den 18. Jenner. English.</author>
+                  <author>Trundle, John, attributed name.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by G. Eld] for Iohn Trundle: and are to be sold at Christ Church gate,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains a revised version of STC 5681 ("A true and most dreadfull discourse of a woman possessed with the Devill") and STC 21818 (which is a translation, with dates altered in the present item, of "Prophecey eines Bawren Tochter, welche den 18. Jenner")--Cf. STC.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Preface signed: T.I. [i.e. John Trundle?].</note>
+                  <note>"Lincolnshire Teares" has a separate dated title page that reads: Lamentable newes out of Lincolne-shire of the ouerflowing of waters, breaking from the seas, which drowned 5. villages with all their goods and cattell, with other places of the land, this present month of Nouember: 1613. to the great hurt of many people there dwelling.</note>
+                  <note>Signatures: A-D⁴.</note>
+                  <note>Formerly also STC 15652.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+                  <note>Appears at reel 774 and at reel 802 (both are British Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:20541:1" rendition="simple:additions"/>
+                  <pb facs="tcp:20541:1"/>
+                  <p>
+                     <hi>A Miracle, of Miracles.</hi>
+                  </p>
+                  <p>As fearefull as euer was ſeene or heard of in the memorie of MAN.</p>
+                  <p>Which lately happened at <hi>Dichet</hi> in Sommerſetſhire, and ſent by diuers credible witneſſes to be publiſhed in LONDON.</p>
+                  <p>Alſo a Propheſie reuealed by a poore Countrey Maide, who being dead the firſt of October laſt, 1613. 24. houres, reuiued againe, and lay fiue dayes weeping, and continued propheſying of ſtrange euents to come, and ſo died the 5. day following.</p>
+                  <p>Witneſſed by M. <hi>Nicholas Faber,</hi> Parſon of the Towne, and diuers worthy Gentlemen of the ſame countrey. 1613,</p>
+                  <p>Withall, Lincolneſhire Teares. For a great deluge, in which fiue Villages were lamentably drowned this preſent month.</p>
+                  <figure>
+                     <figDesc>woman in bed surrounded by four others standing and one seated, most with arms upraised or hands clasped in prayer, one holding a candle; angel bearing cross with pennant at foot of bed; black headless bear beside bed</figDesc>
+                  </figure>
+                  <p>At London printed for <hi>Iohn Trundle:</hi> and are to be ſold at Chriſt Church gate. 1614.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:20541:2"/>
+                  <pb facs="tcp:20541:2"/>
+                  <head>TO MY LOVING FRIENDS AND READERS IN LONDON.</head>
+                  <p>
+                     <seg rend="decorInit">B</seg>ELOVED and courteous friends and Readers, wee haue to conſider by this ſtrange diſcourſe, how ready Sa<g ref="char:EOLhyphen"/>than is to take hold on vs, if wee fall from GOD neuer ſo little. Hee conti<g ref="char:EOLhyphen"/>nually runneth vp and downe, ſeeking whom hee may deuoure: But notwithſtanding his temptati<g ref="char:EOLhyphen"/>ons, which are great, the mercie of God is greater, who neuer faileth to ſend comfort in temptation, if we accept thereof.</p>
+                  <p>Great are the examples both of Gods mercie and might, to put vs in remembrance of our ſinnes which are infinite and loathſome, wherein if wee continue, let vs vndoubtedly looke for the reward thereof, which is an euerlaſting deſtruction both of bodie and ſoule.</p>
+                  <p>Let not this which is heere declared ſeeme a fai<g ref="char:EOLhyphen"/>ned fable vnto thee, but aſſure thy ſelfe that all ſuch things are ſent as warnings for our wickednes, and to put vs in mind of the ſtay of our ſaluation, which
+<pb facs="tcp:20541:3"/>
+is an aſſured faith in Chriſt Ieſus: from which piller if wee once ſhrinke, the Tempter is readie to driue vs into deſpaire of Gods mercie.</p>
+                  <p>Many are the wonders which haue lately happe<g ref="char:EOLhyphen"/>ned, as of ſodaine and ſtrange death vpon periured perſons, ſtrange ſights in the Ayre, ſtrange births on the Earth, Earthquakes, Commets, and fierie Impreſſions, with the execution of GOD himſelfe from his holy fire in heauen, on the wretched man and his wife, at <hi>Holnhurſt</hi> in Hampſhire; written by that worthy Miniſter maiſter <hi>Hilliard;</hi> and all to put vs in minde of God, whoſe workes are wonderfull.</p>
+                  <p>Theſe and ſuch like examples (good Reader) war<g ref="char:EOLhyphen"/>neth vs to bee watchfull for the day of the Lord which is at hand, leaſt ſodainely his wrath be kind<g ref="char:EOLhyphen"/>led againſt vs. Let vs therefore pray to Almightie God to hold back his rodde, to be mercifull to vs, and to forgiue vs that is paſt: that through the aſſiſtance of his Spirit, wee may with pe<g ref="char:EOLhyphen"/>nitent hearts liue in his feare to our liues end.</p>
+                  <closer>
+                     <signed>Your friend, <hi>T.I.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:20541:3"/>
+                  <head>
+                     <hi>STRANGE NEVVES</hi> out of Sommerſetſhire.</head>
+                  <p>
+                     <seg rend="decorInit">V</seg>Pon the ninth day of <hi>Septemb.</hi> laſt paſt, there was a Yeoman of ho<g ref="char:EOLhyphen"/>neſt reputation, dwelling in the Towne of <hi>Dichet,</hi> which is with<g ref="char:EOLhyphen"/>in three myles of <hi>Bruton</hi> (the moſt ancient towne within <hi>Sommerſet<g ref="char:EOLhyphen"/>ſhire</hi>) whoſe name is <hi>Steuen Coo<g ref="char:EOLhyphen"/>per,</hi> a man of good wealth, and well beloued of his neighbours: who beeing ſicke, and lying in a weake ſtate, ſent his wife (whoſe name was <hi>Margaret Cooper</hi>) vpon the ninth day of <hi>Sept.</hi> paſt in<g ref="char:EOLhyphen"/>to <hi>Gloceſter-ſhire,</hi> to take order concerning a Farme which he hath in a village called <hi>Rockhampton, alias Roc<g ref="char:EOLhyphen"/>kington,</hi> at whoſe comming thither, it ſéemed al things were not according to her minde. Thus continuing there one day and ſomething more, ſhee returned home to her huſband, partly agrieued at ſuch things as ſhee thought her huſband might reforme, if God lent him life. Now when ſhée was come home againe to <hi>Dichet,</hi> ſhe found her huſband recouered to an indifferent health: to whom ſhee beganne to vſe very much idle talke, as well concerning the ſame Farme, as alſo concerning an olde groate which her ſonne (being a little boy) had found
+<pb facs="tcp:20541:4"/>
+about one weeke before. Thus ſhee continued (as it were one that had beene bewitched or haunted with an euill Spirit) vntill Tueſday at night following, which night ſhe tooke her reſt ſomething indifferently vntill towards the morning: at which time ſhee began with much vaine ſpeech to diſquiet her huſband, and to vſe much idle talke: but her huſband ſeeing her in ſuch a minde, and finding that ſhee was as it were one that were deſperate, hee perſwadod her to call vpon God, and that béeing the creature of God, ſhee ſhould not forget to call vpon her Creatour in the day of trouble, wherefore he counſelled her to pray with him, and to ſay the Lords Prayer after him, which ſhe partly did. But the Diuell, who alway doth build his Chappell ſo neere as hee may to vexe Gods Church, began to withdrawe her from Prayer, and to put her in minde to call in moſt fearefull ſort for the groat which her ſonne had lately found, as alſo for her Wedding Ring, deſiring to ſee them with all ſpeede: her huſband made no great haſt thereunto, but continued in Prayer, that it would pleaſe GOD, to ſend her a more quiet ſpirit and to ſtrengthen her, that faith might ſpeedily vanquiſh ſuch vanity in her. But the more hee prayed and perſwaded her to Prayer, the more ſhee ſeemed to bee as it were troubled with ſome euill ſpirit, calling ſtill for the olde groat, which her huſband neglected to ſhew her: whereat ſhe began with a very ſterne and ſtaring countenance to looke on her huſband in moſt wonderfull ſort, ſo that hée was ſore frighted with the ſame. Then he called for her ſiſter, for that he was not able to keepe her in her bed: which when her ſiſter and other were come into the Chamber, they kept her downe violently in the bed: and foorthwith ſhee was ſo ſore tormented, that ſhee fomed at the mouth, and was ſhaken with ſuch force, that the bed and the Chamber did ſhake and moue in moſt ſtrange
+<pb facs="tcp:20541:4"/>
+ſort: her huſband continued praying for her deliuerance: ſo that within one halfe houre after her ſhaking was left, ſhee began to tell them that ſhe had been in the Towne to beate away the Beare which followed her into the yard when ſhee came out of the Countrie, which to her thinking had no head. Then her huſband and friendes wiſhed her to leaue thoſe vaine imaginations, perſwaded her that it was nothing but the lightnes of her braine, which was become idle for want of reſt. Wherefore her huſband and friends exhorted her to ſay the Lords prayer with them, which ſhe did, and after tooke ſmall reſt. And thus ſhe remained vntill the Sunday following: in which time ſhe continued raging as it were beſtraught of her memory, which came by fits, to the great griefe of her huſband, friends, and neighbours. Vpon the Sater<g ref="char:EOLhyphen"/>day following there was good hope of her recouerie, for that ſhee in the night before had taken ſome reaſonable reſt: her friends and neighbours came to comfort her, yet ſometime ſhee would talke ſomewhat idly to them, which came by ſmall fittes. And vpon the Sunday ſhee ſeemed very patient and conformable to reaſon, vntill midnight: at which time the Candle, which was ſet burning in the ſame Chamber, was burned out. She then ſuddenly waking, called to her huſband, and cried out, ſaying that ſhe did ſee a ſtrange thing like vnto a Snaile, carrying fire in moſt wonderfull ſort. Whereat her huſband was amazed: and ſéeing the Candle was cleane burnt out, called to his brother and ſiſter that were in the houſe with other of their friends watching and ſit<g ref="char:EOLhyphen"/>ting vp, to comfort her if her extreame fit ſhould any way moleſt her, who hearing her huſband call, came in and brought a Candle lighted, and ſet it on the Table which ſtood neere where the woman lay. She began then to waxe as one very fearefull, ſaying to her huſband and the reſt: doe not you ſee the Diuell? Whereat they de<g ref="char:EOLhyphen"/>ſired
+<pb facs="tcp:20541:5"/>
+her to remember GOD, and to call for grace, that her faith might bee onely fixed vpon him to the van<g ref="char:EOLhyphen"/>quiſhing of the Diuell, and his aſſaults. Well (quoth ſhe) if you ſee nothing now, you ſhall ſee ſomething by and by: and forthwith they heard a noiſe in the ſtreet, as it had been the comming of two or three Carts, and preſently they in the chamber cryed out ſaying, Lord helpe vs, what manner of thing is this that commeth heere? Then her huſband looking vp in his bed, eſpied a thing come to the bed much like vnto a Beare, but it had no head nor tayle, halfe a yard in length, and halfe a yard in height: her huſband ſeeing it come to the bed roſe vp, and tooke a ioyned ſtoole and ſtroke at the ſaid thing, the ſtroke ſounded as though he had ſtroken vpon a Fe<g ref="char:EOLhyphen"/>therbed: then it came to the woman and ſtroke her thrée times vpon the feete, and tooke her out of the bed and ſo rouled her too and fro in the chamber, and vnder the bed. The people there preſent, to the number of ſeuen per<g ref="char:EOLhyphen"/>ſons, were ſo greatly amazed with this horrible ſight that they knew not what to doe, yet they called ſtill vpon GOD for his aſſiſtance: but the Candle was ſo dimme, that they could ſcarſely ſee one another. At the laſt this Monſter, which we ſuppoſe to be the Diuell, did thruſt the womans head betwixt her legges, and ſo rouled her in a round compaſſe like an hoope through three other Chambers downe an high paire of ſtaires in the Hall where hee kept her the ſpace of a quarter of an houre. Her huſband, and they in the Chamber aboue durſt not come downe to her, but remained in prayer weeping at the ſtaires head, gréeuouſly lamenting to ſee her ſo carried away. There was ſuch an horrible ſtinke in the Hall, and ſuch fierie flames, that they were glad to ſtoppe their noſes with cloathes and nap<g ref="char:EOLhyphen"/>kins. Then the woman cryed out, calling to her huſ<g ref="char:EOLhyphen"/>band. Now he is gone. Then (quoth hee) in the name
+<pb facs="tcp:20541:5"/>
+of GOD come vp to mee. And ſo euen vpon the ſo<g ref="char:EOLhyphen"/>daine ſhe was come ſo quickly that they greatly maruai<g ref="char:EOLhyphen"/>led at it. Then they brought her to bed, and foure of them kept downe the cloathes about the bed, and conti<g ref="char:EOLhyphen"/>nued in prayer for her. The Candle in the Chamber could not burne cleere, but was very dimme, and ſud<g ref="char:EOLhyphen"/>denly the woman was got out of the bed, and the win<g ref="char:EOLhyphen"/>dowe at the beds head opened: whether the woman did vnpin the window or how it came to paſſe they knewe not, but it was opened, and the womans legges after a maruellous manner thruſt out at the window, ſo that they were claſped about the poſte in the middle of the windowe, betweene her legges. The people in the cham<g ref="char:EOLhyphen"/>ber heard a thing knocke at her feete as it had beene vpon a Tubbe, and they ſaw a great fire, as it ſeemed to them, at her feete, the ſtinke whereof was horrible. The ſorrowfull huſband and his Brother imboldens them<g ref="char:EOLhyphen"/>ſelues in the Lord, and did charge the Diuell in the name of the Father, the Sonne, and the Holy Ghoſt, to depart from her, and to trouble her no more. Then they laide hands on her, and cryed to the Lord to helpe them in that their great neede, and ſo puld her in againe, and ſet her vpon her feet. Then ſhe looked out at a win<g ref="char:EOLhyphen"/>dow, and began to ſay, O Lord (quoth ſhe) me thinke I ſee a little Childe: but they gaue no regard to her. Theſe words ſhe ſpake two or three times. So at the laſt they all looked out at the window: and loe they eſpied a thing like vnto a little Childe, with a very bright ſhining countenance, caſting a great light in the Chamber, and then the Candle burned verie brightly, ſo that they might one ſee another. Then fell they flat to the ground, and praiſed the LORD that hee had ſo wonderfully aſſiſted them, and ſo the Childe vaniſhed away. Then the woman being in ſome
+<pb facs="tcp:20541:6"/>
+better feeling of her ſelfe, was laide in her bed, and ſhee aſked forgiueneſſe at Gods hands, and of all that ſhee had offended, acknowledging that it was for her ſinnes that ſhee was ſo tormented of the euill Spirit. And ſo God bee thanked ſhee hath euer ſince been in ſome reaſonable order, for there hath béen with her many godly learned men from diuers places of the Countrey.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="list_of_witnesses">
+                  <pb facs="tcp:20541:6"/>
+                  <head>Theſe bee the names of the Witneſſes, that it is moſt true.</head>
+                  <list>
+                     <item>Steuen Cooper.</item>
+                     <item>Iohn Cooper.</item>
+                     <item>Alis Eaſton.</item>
+                     <item>Iohn Tomſon.</item>
+                     <item>Iohn Anderton.</item>
+                     <item>Myles Foſter.</item>
+                     <item>With diuers others.</item>
+                  </list>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:20541:7"/>
+                  <pb facs="tcp:20541:7"/>
+                  <head>THE VVONDERFVLL worke of GOD, ſhewed by a Propheſie of a poore Countrey mans Daughter in GERMANY. 1613.</head>
+                  <p>
+                     <seg rend="decorInit">V</seg>PON the firſt of <hi>October</hi> laſt paſt, 1613. There was a marri<g ref="char:EOLhyphen"/>age ſolemnized at <hi>Roſtorfe,</hi> a mile diſtant from <hi>Melwing,</hi> in <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> betweene one <hi>Iames Craniſen,</hi> an honeſt Townes man: and one <hi>Margaret Henſlers,</hi> the daugh<g ref="char:EOLhyphen"/>ter of <hi>Hans Steeman</hi> of <hi>Melwing,</hi> deceaſed. This <hi>Iames</hi> had beene ſeruant and Clarke, vnto the worſhipfull maiſter <hi>George Ramyts</hi> Gentle<g ref="char:EOLhyphen"/>man, the time of twelue yeeres, who was (by his Mai<g ref="char:EOLhyphen"/>ſter and ſundry other perſons of good calling,) brought to the Church, and at their returne were conducted to his Maiſters houſe againe, who had prepared for him and his gueſts, a ſufficient Feaſt, at his owne coſts and charges: and although this <hi>Iames</hi> was but a haſband mans Sonne, yet was hee beloued of the whole inhabi<g ref="char:EOLhyphen"/>tants, and that of the chiefeſt ſort. Thus was this Feaſt kept in good order, with great Loue and quietneſſe: mix<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:20541:8"/>
+with their meate, honeſt mirth, well liked, and noted of ſundry Nobles and Gentlemen, beeing preſent at the ſame Feaſt, and inhabiting there abouts.</p>
+                  <p>The next day following, a young maide of the age of fouretéene yeares, beeing Siſter to the Bridegroome, came to the wedding-houſe to her Brother, bringing with her the Daughter of one <hi>Simon Franiken</hi> of <hi>Melwing:</hi> both which after they had ſeene the houſe, and in what or<g ref="char:EOLhyphen"/>der things ſtood, were deſirous to ſee the Daughter of the Worſhipfull Maiſter <hi>George van Ramyttes,</hi> whoſe name was Miſtris <hi>Annys:</hi> who beeing in the Chamber, they both went to viſite her, and doing their duties, they demanded how ſhe did: ſhe aunſwered, indifferent well. Then the two Maides ſate downe by her, where toge<g ref="char:EOLhyphen"/>ther they conferred of many matters, eſpecially, as con<g ref="char:EOLhyphen"/>cerning their attire and apparell. The Bridegroome, be<g ref="char:EOLhyphen"/>fore ſpecified, had made his Siſter a ſilk vpper-body, with which ſhee had dreſſed her ſelfe as handſomely as ſhee might, and withall ſhe wore the beſt and ſeemlieſt appa<g ref="char:EOLhyphen"/>rell that ſhe had put on for that day. But the Gentlewo<g ref="char:EOLhyphen"/>man ſeeing it, beganne to floute at her, ſaying: Can thy Father cloath thee thus, and ſeeme ſo poore? Alas Mi<g ref="char:EOLhyphen"/>ſtreſſe (quoth the Maiden) hitherto my poore Father hath alwaies to his power apparelled me: but this which you ſee, my Brother hath beſtowed on mee, to doe him hone<g ref="char:EOLhyphen"/>ſty at his mariage: God knoweth who ſhall weare it out, how long I ſhall owe it, or when I ſhall put it on again. And though wee bee poore in goods, I truſt God will make vs rich in Spirit, and ſo ſhee helde her peace, de<g ref="char:EOLhyphen"/>parting for a fine Cake and Wine, wherewith they made merry. Soone after, the Citizens Daughter that was well apparelled (and ſomewhat vaine-glorious withall) ſaid that her mother gaue her all things ſhee could get,, but her Father was ſo hard, that ſhee might not weare that ſhe had, but was faine to kéep it from his
+<pb facs="tcp:20541:8"/>
+ſight. The Gentlewoman replyed, ſaying: my Father biddeth me weare what I will, and if it were not for of<g ref="char:EOLhyphen"/>fence vnto the Nobilitie, hee would apparell mee like a Princes: and therewithall ſhee cauſed ſundry faire Ie<g ref="char:EOLhyphen"/>wels and Chaines to be taken foorth of her Cheſts, which were very curiouſly wrought, and cauſed great admi<g ref="char:EOLhyphen"/>ration vnto the beholders. The poore Countrey Maide that knew no Pride, nor had any ſuch attire to boaſt on, held her peace, accounted her ſelfe with her pouertie, as acceptable before God, as the richeſt or fayreſt of thoſe fine Dames preſent: ſaying inwardly to her ſelfe, God is a iealous God, he hateth Pride, he puniſheth the vn<g ref="char:EOLhyphen"/>righteous, he comforteth the poore, which haue no delight therein: and maintaineth them that are continually bent to the ſeruice of him.</p>
+                  <p>After that al together had talked their pleaſures, to their contentment: euery one ſeuerally tooke their leaue one of another, and after a while departed to the houſes of their Parents.</p>
+                  <p>The third day after this Marriage was ſolemnized, all the ioy was turned into heauineſſe, for the death of two of the Maidens before mentioned: namely, the Daugh<g ref="char:EOLhyphen"/>ter to the Gentleman, and the Siſter of the Bride<g ref="char:EOLhyphen"/>groome, who died both in one afternoone, betweene thrée and foure of the clocke. This ſo ſodaine death, brought great terrour and feare vnto their Parents, and alſo to the hearers thereof, inſomuch that ſome thought them to be poyſoned, and other gaue foorth their iudgements ac<g ref="char:EOLhyphen"/>cording to their fantaſies.</p>
+                  <p>The next day after, preparation was made for their buriall: <hi>Nicholas Faber,</hi> Parſon of that Villedge, would haue had them both buried in one graue, but the Gentle<g ref="char:EOLhyphen"/>man would not. Great lamentation was made for both theſe Maidens, the Gentleman and his friends, for the loſſe of his Daughter: and the Father and Mother, with
+<pb facs="tcp:20541:9"/>
+her Brother and Friends, for the loſſe of their god<g ref="char:EOLhyphen"/>ly Childe. Now the Mother of this poore Maide, vnder<g ref="char:EOLhyphen"/>ſtanding that her neighbours were in hand to winde her vp, and ſo to ſend her to the earth: came vnto them and deſired that ſhee might yet once more ſee her Daugh<g ref="char:EOLhyphen"/>ter, which they willingly granted: ſo they went alto<g ref="char:EOLhyphen"/>gether to the dead Corpes, (which had been laid foorth, the full ſpace of two and twenty houres) and the Mo<g ref="char:EOLhyphen"/>ther lifted vp the ſheete, ſighing, purpoſing then to take her laſt farewell, and fight of her deare Daughter, whom ſhee ſo tenderly loued. But contrarie to her expectati<g ref="char:EOLhyphen"/>on, and of all the beholders, her Daughter, euen as one awaked from a ſlumber, raiſed vp herſelfe, and with a milde and cheerefull countenance, ſpake vnto her Mother as followeth. My moſt deere Mother, why haue you ſinned ſo ſore againſt GOD? You haue made me ſorrowfull many times, but bee you content, GOD hath forgiuen all, for I am ſent as a meſſenger to you, and within fiue daies I ſhall returne againe to the place I came from, where I ſhall liue in all peace. Therewith they fetcht her cloathes, which ſhee put on, and walking with them, ſhe demanded meate.</p>
+                  <p>This ſodaine ſight amazed the beholders, for they looked for ſome other meaning in it. But where as this Maide was ſeldome before ſeene to be merry, They now perceiued her more cheerefull, and with a pleaſant diſpoſed countenance, ſo that the apparant ſhow of her ieſture was wonderfull to beholde, then meate was brought, and ſhe did eate in all mens ſight, diſgeſting it naturally.</p>
+                  <p>Diuers of the cheefe of the Towne came to ſee this ſtrange euent, where after many ſpeeches by them vttered the Maide required ſilence, and to them all ſhe ſaid.</p>
+                  <p>Beloued Chriſtians, wonder not that I haue béen a
+<pb facs="tcp:20541:9"/>
+ſhort time from you: but be thankfull to God, that he hath certified you by ſundry ſignes, how the ende of the world is at hand, and the day of reſt comming to reioyce vs: Our charge ſhall be taken away, and our trauaile haue an ende: Let vs make our ſelues ready againſt the Sabaoth of our Sauiour, the onely true Sonne of God. Let vs now with pure hearts, prepare to meete the heauenly Bridegroome, that with him wee may enter into his euerlaſting Kingdome, where we ſhall enioy e<g ref="char:EOLhyphen"/>ternall life.</p>
+                  <p>Maiſter <hi>Nicholas Faber,</hi> (Parſon of the Towne) de<g ref="char:EOLhyphen"/>manded of her where ſhe had beene? To whom ſhe an<g ref="char:EOLhyphen"/>ſwered: I was ouertaken néere the bridge of the Brooke, by a comely olde man, with a long gray Beard, who ſa<g ref="char:EOLhyphen"/>luted mée, ſaying: Daughter, whether wilt thou? Is thy Father at home? I anſwered yea. Then ſaid he to mee, come my louing Daughter, I muſt needes talke with thee, and tell thee that which as yet is hidden from thée, for great effect dependeth thereupon. And be not afrayde, let the grace of God ſuffice thée, and looke that you conceale not my words, but reueale them to o<g ref="char:EOLhyphen"/>thers: tell what I ſhew you, vnto olde and young.</p>
+                  <p>So wee came to a faire coſtly Forte, (no Princes Court like it, nor any earthly building to bee compared vnto it,) where we were let in. In which place, wee ſaw many bright Angels, ſhining like the beames of the Sun all ſinging melodiouſly with cleare voyce: <hi>Holy, ho<g ref="char:EOLhyphen"/>ly, holy, is our Lord God of Saboath.</hi> Among which I knew a great number: But the olde man forbade me to ſpeak vnto any. Forthwith I was brought againe to the Brook, where he ouertook me: I becam very penſiue, when I thought of the worthines of the place where I had béen.</p>
+                  <p>But the old man, willed me to reſt contented, for this ſhort time ſhall quickly haue an end, and within fiue daies thou ſhalt be brought againe into this place.</p>
+                  <p>
+                     <pb facs="tcp:20541:10"/>He willed me, beſides, to manifeſt (vnto the Peni<g ref="char:EOLunhyphen"/>tent) the mercy of GOD, and to ſay vnto the world, that he is bent to wrath: cheefly to thoſe that deſpiſe, and giue no credite to his examples, which hée miraculouſly hath ſhewed vnto his people. Theſe are but war<g ref="char:EOLhyphen"/>nings ſent vs, to mollifie our hard hearts, and to ad<g ref="char:EOLhyphen"/>moniſh vs from the deteſtable Pride, which is heere maintained, becauſe before GOD you ſhall finde it damnable.</p>
+                  <p>O people full of contempt, deſpiſing one an other, ſome for Riches, ſome for Beauty, others for Wiſe<g ref="char:EOLhyphen"/>dome, ſome for one thing, ſome for an other: where as before GOD, we are all alike with him, poore and rich: notwithſtanding, he will not goe forward with his an<g ref="char:EOLhyphen"/>ger, hee will hold his hand, and moderate it with mer<g ref="char:EOLhyphen"/>cie, if he finde but ſome ſmall number, penitent for their ſinnes.</p>
+                  <p>If you amend not, and turne to GOD, hee will forthwith ſend on you a generall alteration, and ſuch an one, as not onely men, but Birds of the ayre and all li<g ref="char:EOLhyphen"/>uing things, ſhall tremble at his wrath. Warres ſhall greatly greeue the earth, and they ſhall deſtroy Coun<g ref="char:EOLhyphen"/>treyes and people: Men ſhall bee moſt greeuouſly chaſed from their houſes, and moſt miſerably murthered. And before this happen, there ſhall come a great dearth: and then God will take his owne that haue turned vnto him, not ſuffering them to ſee this miſerie: but thoſe that liue after, ſhall truely feele the wrath of God, ſo that thoſe which remaine in the third yeere ſhall well ſay, <hi>Where haue you beene, that you are not yet deſtroyed?</hi> Many for feare ſhall decay: there ſhall bee great Earthquakes, through which. Townes and Stéeples, Caſtles, Fortes and houſes ſhall be throwen down on heapes. Then ſhall follow ſuch miſhap, as is not neceſſary to be ſpoken of, for the ſin of the people is abhominable &amp; curſed before God.</p>
+                  <p>
+                     <pb facs="tcp:20541:10"/>After this great and terrible trouble, there ſhall great Peace ariſe, and the people ſhall liue in great tranquillitie: there ſhall be want of learned men, and good Rulers: wherefore good people, let this terrifie your pride, being euen the whole puddle of ſinne, and the roote of abhomination.</p>
+                  <p>The cloathes which Miſtreſſe <hi>Annys</hi> did weare, for the Pride and vaine-glory of her Parents, they ſhall be<g ref="char:EOLhyphen"/>come loathſome to all perſons, whereby none ſhall be able to weare them, but ſhall remaine as a neceſſarie example to all perſons. This ſpeech twiſe ſpoken, was marked of many: and others were inquiſitiue, to ſee the cloths: which being ſtirred, there aroſe a great and deteſtable ſtinke, that no man could either weare them, or abide by them. Which ſtrange thing, the good Gentlewoman her Mother conſidering: cauſed the ſaid Chamber to be walled in, ſo that none may come to them any way. Thus the Maide continued in theſe and ſundry ſuch other ſpeeches.</p>
+                  <p>In the meane time, diuers learned Preachers came vnto her, and talked with her, as concerning Spirituall matters, which ſhe was glad of. To whom ſhée yéelded harty thankes, ſignifying to them, that the fifth day was now come, wherein ſhe ſhould be taken from the world. But before ſhée departed, ſhe was deſirous to receiue the Sacrament, and Chriſtian Communion of the body and blood of Chriſt, which Maiſter <hi>Nicholas Faber</hi> did miniſter vnto her: And all that day hee did reaſon with her: to whom ſhe vttered ſuch godly reaſons, as it made him marueilouſly aſtonied.</p>
+                  <p>Many people came to ſée her at that day, and to ſée what would fall out. Then meat was brought, and ſhe ſat down at the Table, ſhe ſaid Grace, thanked God, and bleſſed her Father and Mother, and inſtantly deſired her Bro<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:20541:11"/>
+that he would honour his Parents, and not to leaue therein their olde age: in ſo doing, he ſhould be rewarded with the bleſſing of God.</p>
+                  <p>Maiſter <hi>Faber</hi> came now againe to viſite her (as his manner was) and he ſaid vnto her, how doe you? To whom ſhe friendly gaue her hand, and ſmiling, thanked him of his paines which he had taken with her.</p>
+                  <p>Then for a laſt farewell, ſhe rehearſed all the war<g ref="char:EOLhyphen"/>nings to the people, deſiring them, not to bee vnmindfull of them: And anone after, betwéene one and two of the clocke, patiently ſitting in a Chayre, ſhe committed her Soule to God; and yeelded vp the Ghoſt. Being the 6. of the ſaid Moneth of <hi>October.</hi> 1613.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="list_of_witnesses">
+                  <pb facs="tcp:20541:11"/>
+                  <head>The names of certain men of good worſhip and credite, that were then preſent.</head>
+                  <list>
+                     <item>Maiſter <hi>Nicholas Faber,</hi> Parſon of the ſaid Towne,</item>
+                     <item>Maiſter <hi>George van Ramyttes.</hi>
+                     </item>
+                     <item>Maiſter <hi>Ioachim Schiell</hi> of <hi>Melwing.</hi>
+                     </item>
+                     <item>Maiſter <hi>Peter Schulban</hi> of <hi>Melwing.</hi>
+                     </item>
+                     <item>
+                        <hi>Adam Dorhoff</hi> of <hi>Margenberg.</hi>
+                     </item>
+                     <item>
+                        <hi>Hans Ronneman, Scowt</hi> of the Towne.</item>
+                     <item>Maiſter <hi>Stephen.</hi>
+                     </item>
+                     <item>
+                        <hi>Lawrence</hi> the Schoolemaiſter.</item>
+                     <item>
+                        <hi>Hans Lidwig:</hi> And <hi>Peter Barchart.</hi>
+                     </item>
+                  </list>
+                  <p>Maiſter <hi>Knact Clighton, Berger</hi> and Super<g ref="char:EOLhyphen"/>intendent <hi>of</hi> Melwing, had the examination of the trueth, before it was publi<g ref="char:EOLhyphen"/>ſhed in Print.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:20541:12"/>
+                  <pb facs="tcp:20541:12"/>
+                  <p>LAMENTABLE Newes out of <hi>Lincolne-ſhire</hi> of the ouer<g ref="char:EOLhyphen"/>flowing of waters, breaking from the Seas, which drowned 5. Villages with all their goods and cattell, with other places of the Land, this preſent month of Nouember: 1613. to the great hurt of many people there dwelling.</p>
+                  <figure>
+                     <figDesc>view of city with birds overhead; three figures in upper left background (kneeling in prayer?)</figDesc>
+                  </figure>
+                  <p>At London printed for IOHN TRVNDLE: and are to be ſold at Chriſt Church gate. 1614.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:20541:13"/>
+                  <pb facs="tcp:20541:13"/>
+                  <head>THE OVERFLOWING OF Waters, breaking from the Seas in the County of <hi>Lincolne,</hi> with other places of the Land, this preſent month of Nouember, to the great hurt of many people there dvvelling.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>F wee doe conſider the eſtate of man<g ref="char:EOLhyphen"/>kinde aright, we ſhal find by experience how ſodaine is his fall, and we ſée the man that hath liu'd many yeares, care<g ref="char:EOLhyphen"/>fully getting together wealth in abun<g ref="char:EOLhyphen"/>dance, in a moment is vndone, and brought to nothing, as for example, this preſent month of Nouember, brings vs ſufficient witnes, where in <hi>Lincolne-ſhire,</hi> that plentifull country, that ſoile ſo large and full of increaſe, as well of Cattell, as other fowles of the earth, hath lately felt the vnreſiſting force of waters, by the raging and vnruly windes blowne ouer the ſea Bankes, where many hundreds of people, were euen forced by the ſodainnes thereof to ſhift for their liues, lea<g ref="char:EOLhyphen"/>uing all the ſubſtance they inioyed to the mercy of the commanding floods.</p>
+                  <p>And now to beginne the diſcourſe of my lamentable re<g ref="char:EOLhyphen"/>ports, neare vnto the Towne of <hi>Wiſbidge,</hi> one of the prin<g ref="char:EOLhyphen"/>cipal market townes in that county of <hi>Lincolne,</hi> is ſituate a Village called <hi>Long-ſutton,</hi> a place for huſbandry and paſture grounds anſwerable to moſt in that country, but by reaſon of the marſhy and fenny vallies adioining to the ſame, the moſt part thereof hath béene lately ouerflowed: for the winde then ſitting North and North-eaſt, beating the ſeas ſo violently againſt the ſhores, by which meanes the commanded waters excéeded their bounds with ſuch
+<pb facs="tcp:20541:14"/>
+force, that their mighty bankes were not able to containe them.</p>
+                  <p>At the firſt entrance of this watery conquerour, it is ſaid it apeared to the inhabitants a far of, like vnto a cloud rouling out of the ſkies, or a ſtorm of raine, by the winds blowne nearer and nearer, but approching to the ſight of men, it ſéemed to bee a ſecond deluge: a feare ſo ſodaine, that well was that man that by flight could preſerue his life: not one place, not one field, not one village, nor one towne receiued hurt by the ouerflowing of theſe waters, but many: yea, many were the loſſes comming thereby: for it is well knowne, and by true reports iuſtified, that néere vnto <hi>Long-Sutten</hi> aforeſaid, ſome eightéene or twen<g ref="char:EOLhyphen"/>ty villages had ſhare of this lamentable ſpoile, &amp; as much ground ouerflowed as is compaſſed in the circuite of ſix<g ref="char:EOLhyphen"/>téene miles, all the low parts of that country ſtood like the maine Ocean, or the Zurick ſeas betwixt Holland and Zeland, where nothing is left in ſight aboue waters but pinacles and Church ſtéeples: ſo was héere at that wofull time, nothing ſéene but the vpper parts of houſes, and the tops of trées: the fury and ſtrength of the ſalt waters thus broke in ſo preuailed, that they ouerturned whole ſtackes and Rickes of Peaſe and Beanes, and carried them away like ſtating ſhips into the maine ocean.</p>
+                  <p>It is alſo credibly reported, that aboue two thouſand head of cattell, beſides many thouſands of ſhéepe periſhed in the ſame floods, and no newes of them as yet to be heard of, but onely ſome few, ſcattering héere and there, floting vpon the waters ten or twelue myles from the owners, the reſt are ſuppoſed to be born into the ſea, whoſe deuou<g ref="char:EOLhyphen"/>ring wombe is able to drench vp all the wealth that re<g ref="char:EOLhyphen"/>maines vpon the land, for the ſea is much more larger and richer then all the world beſide: therefore let vs pray that the Lord with his mighty and ſtrong arme, may keepe vs from the Rigour of this mercileſſe inuades, and ſo ſtreng<g ref="char:EOLhyphen"/>then
+<pb facs="tcp:20541:14"/>
+her bankes, that ſhe may be kept within hir bounds, otherwiſe vnhappy ſhall we be in this Northerne part of the world, but now againe to our purpoſe.</p>
+                  <p>At thoſe Villages bordering neareſt vpon the ſea coaſts many of the inhabitants were forced in ſaueguard of their liues to clime the tops of trées, and there ſate ſtaruing in the cold day &amp; night, vntill Boates came to preſerue them, likewiſe vpon houſe tops, and the Leads of churches, ſate both men, women, and children, whoſe frighted friends ſuppoſed them to be buried in the déepe waues: but a<g ref="char:EOLhyphen"/>mongſt all theſe lamentable reports, this one is moſt won<g ref="char:EOLhyphen"/>derfull of a Lincolne-ſhire man that ſwomme a long mile bearing his wife and two children vpon his backe to ſaue them from drowning, whoſe loue and aduenture herein deſerueth a perpetuall commendation: likewiſe diuers men of that country were forced to ride vpon horſes ſwim<g ref="char:EOLhyphen"/>ming alſo at leaſt two miles euen to ſaue themſelues: to ſpeake truth, in this extremitie nothing was cared for but peoples liues, wherein as yet few are knowne to haue periſhed: for according to the cuſtome of that country, they haue boates and other meanes alwaies in readineſſe pro<g ref="char:EOLhyphen"/>uided againſt the dangers of ſuch ouerflowing waters, but of goods and cattell ſuch a ſpoile was made in leſſe then fiue dayes, that the looſers thereof will hardly reco<g ref="char:EOLhyphen"/>uer their former eſtates in ſeuen yéeres following; God of his mercy pitty their caſes, and in his bounty relieue their wants, for great pouerty is now fallen vpon the wo<g ref="char:EOLhyphen"/>full inhabitants of that countrey. Behold I ſay, the e<g ref="char:EOLhyphen"/>ſtate of man, one day rich, the next day poore: the one day aliue, the next day dead: no certainty of this worlds pro<g ref="char:EOLhyphen"/>ſperitie, no aſſurance of wealth, all things variable, all in a moment deſtroyed.</p>
+                  <p>Let vs call to minde the like miſhap ſome ſixe yeares ſince in the Weſt parts of England, where the waters of the Sea were violently driuen ouer their Bankes by a
+<pb facs="tcp:20541:15"/>
+South weſt wind, as theſe were oppoſite to them with a Northeaſt, where likewiſe many a wealthy village ſuſtai<g ref="char:EOLhyphen"/>ned much hurt, hardly recouered at this day: now Lincoln<g ref="char:EOLhyphen"/>ſhire thy ſorrowes may compare with theirs, the waters haue emptied thy paſtures of increaſing cattell, as they did their fields; ſuch is the cruelty of this liquid element, for if it is rebell and get beyond his bounds, it is able to inuade a whole kingdome, ouer-turne Townes &amp; Tow<g ref="char:EOLhyphen"/>ers, and deuoure vp all liuing creatures therein remain<g ref="char:EOLhyphen"/>ing: let this one thing following be a ſufficient preſident, to make knowne the ſtrength of theſe headſtrong waters, ſtraying from their ſoueraigne Prince the maine ocean, for the aboundance thereof came into the lowe marſh grounds of that countrey, with ſuch ſodaine violence, that a ſtrong built houſe, wholly as it ſtoode, without ſplitting or ſeparation, was borne like a ſhip vpon the waters, two miles from the place where it faſt was builded, the peo<g ref="char:EOLhyphen"/>ple remaining therein hauing no hurt, but ſafely ſet vpon a hill ſide, and ſo preſerued from the further danger: An other ſtrange accident happened in the ſame County. The ſalt waters, moſt ſeafayring affirme, are of a grea<g ref="char:EOLhyphen"/>ter ſtrength then the freſh or the land water, and is able to beare vp what others will ſuffer to ſinke, ſo was it here approoued, for a woman lying in childbed, was borne with her child, bed and all ſafely floting vpon the waters, with the houſe wherein ſhee remained lying, for her beſt ſafety, in a cloſe boarded chamber, vntill ſuch time as the waters abated and ſo miraculouſly preſerued from death. It is alſo to bee maruailed, that at the laſt, when the wa<g ref="char:EOLhyphen"/>ters fell, and returned to their owne abiding, which is the ſea, there were found vpon the land aboundance of fiſh of diuers ſorts, which the waters had left behind, the like ſeldome ſéene or heard of: Contrariwiſe, the ſea made an exchange, and for her fiſh, receiued into her watery womb the like number of fleſh: as horſe, kine, ſhéepe, ſwine and
+<pb facs="tcp:20541:15"/>
+ſuch like, to the great hinderance of that part of this king<g ref="char:EOLhyphen"/>dome.</p>
+                  <p>I will not grieue the owners with the remembrance of their loſſes in other goods, as corne, hay, and other hou<g ref="char:EOLhyphen"/>ſhould ſtuffe: as bedding, linnen, woollen, and ſuch like, which theſe turbulent waters ſpread abroad, and made prizes to pilfering Vacabonds, it is a lamentable caſe, when the two elements of Fire and Water gets liberty, for then is no mercy, but meere confuſion.</p>
+                  <p>Not onely Lincolneſhire can complaine of the ſeas op<g ref="char:EOLhyphen"/>preſſion. but diuers countries bordering vpon her ſhores, which the eaſterne part of Eſſex can well witnes: what goodly grounds and fayre paſtures haue béen there ouer<g ref="char:EOLhyphen"/>flowed: what heards of kine and ſheepe haue been there drowned: what long time ſpent for the recouery, to the great charge and halfe vndooing of the owners, nay fur<g ref="char:EOLhyphen"/>ther a hinderance to the whole Countrey.</p>
+                  <p>With griefe of heart I now call to minde, the great loſſe and hinderance of an honourable Lord of this land, hapning this preſent month of Nouember, in the ſaid County of Eſſex, where many a hundred akers of gallant ground, cloſing vpon the ſea coaſt, is quite ouerflowed, ſtanding now like a white Sea, hardly euer to be recoue<g ref="char:EOLhyphen"/>red, a loſſe of many thouſand pounds, which might haue reléeued the eſtates of many thouſands of poore people: God is angry with vs, in changing this land habitation, into a watery ocean, which by little and little, ſeekes to ſteale the whole earth into hir inſearchable and déepe cir<g ref="char:EOLhyphen"/>cumference.</p>
+                  <p>
+                     <hi>Goodwin</hi> ſands vpon the borders of Kent is likewiſe one of the Seas cruelties, which ſucking ſandy gulfe hath deuoured ſo many goodly Ships, many other breaches giues the Sea paſſage into the Land threatning our de<g ref="char:EOLhyphen"/>ſtruction. The wealthy Riuer Thames preſents vnto our remembrance diuers violent paſſages of water, which
+<pb facs="tcp:20541:16"/>
+from time to time begets feare and care vnto our Coun<g ref="char:EOLhyphen"/>try, ioyned with a continuall toyle for the recouerie.</p>
+                  <p>Come nearer home to our famous Citie of London, and thinke vpon the ſtrange tydes there ſwelling, this laſt wéeke this beginning of Nouember, almoſt ſtill remai<g ref="char:EOLhyphen"/>ning before our eyes, how at Quéene-Hiue the water flo<g ref="char:EOLhyphen"/>wed into the Meale-market, and bore ſackes and veſſels of meale vp and downe the ſtréetes, and drowned many vaults and ſellers, to the great hurt and ſpoile of much goods and commodities. God of his mercy kéep vnder this outragious element, let it not gather head and goe be<g ref="char:EOLhyphen"/>yond the bounds: for being kept vnder gouernment, it is a ſwéete good, and comfort to vs all, ſo is the element of Fire, both good being well vſed, and both euill if once a<g ref="char:EOLhyphen"/>buſed, from the which if they once get command, let vs vſe this prouerbe or rather Prayer, from fire and water good Lord deliuer vs.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:20541:16"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
